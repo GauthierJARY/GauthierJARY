@@ -13,6 +13,8 @@ I'm currently M.Sc. student in Aerospace Engineering 👋🔭 at the Royal Insti
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GauthierJARY&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+▶️ JupyterNotebook includes coding with Python
+
 [![](https://visitcount.itsvg.in/api?id=GauthierJARY&icon=0&color=5)](https://visitcount.itsvg.in)
 
 ### 🌐 Socials:
