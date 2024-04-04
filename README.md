@@ -7,6 +7,8 @@
 -->
 I'm currently M.Sc. student in Aerospace Engineering 👋🔭 at the Royal Institute of Technology KTH (Stockholm, Sweden). I code to solve engineering tasks involving equations solving, problem visualisation or even modelling physical phenomena. Indeed, coding is more than a simple tool, it is part of learning and playing with Physics! You can contact me through my Linkedin account if you have any request regarding my digital projects. 💬📫
 
+🛰️🖱️👾 At the moment, I am trying hard to solve Spacecraft Dynamics problems using Euler quarternions, MRPs, linear control and Matlab.
+
 ### 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
